@@ -1,0 +1,197 @@
+
+================================================================================
+COMPREHENSIVE SALES ANALYSIS REPORT
+================================================================================
+Generated: March 25, 2026 at 09:45 AM
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+
+Total Revenue:                $4,465.00
+Total Transactions:           10
+Average Transaction Value:    $446.50
+Median Transaction Value:     $190.00
+Standard Deviation:           $529.65
+Revenue Range:                $10.00 - $1200.00
+
+Total Customers:              8
+Total Products:               6
+Number of Cities:             3
+
+Date Range:                   2024-01-10 to 2024-03-01
+
+
+================================================================================
+TOP PERFORMERS
+================================================================================
+
+TOP 3 PRODUCTS BY REVENUE:
+
+1. Laptop               | Revenue: $  3,600.00 | Units:  3 | Avg Price: $1,200.00
+2. Monitor              | Revenue: $    600.00 | Units:  2 | Avg Price: $  300.00
+3. Keyboard             | Revenue: $    150.00 | Units:  2 | Avg Price: $   75.00
+
+TOP 3 CUSTOMERS BY SPENDING:
+
+1. Alice                | Spent: $  1,575.00 | Orders:  3 | Avg Order: $  525.00
+2. Diana                | Spent: $  1,200.00 | Orders:  1 | Avg Order: $1,200.00
+3. Frank                | Spent: $  1,200.00 | Orders:  1 | Avg Order: $1,200.00
+
+TOP 3 CITIES BY REVENUE:
+
+1. New York             | Revenue: $  3,150.00 | Customers:  3 | Orders:  6
+2. Chicago              | Revenue: $  1,200.00 | Customers:  1 | Orders:  1
+3. Los Angeles          | Revenue: $    115.00 | Customers:  2 | Orders:  3
+
+================================================================================
+CUSTOMER SEGMENTATION
+================================================================================
+
+High Value Customers (>$1000):    3 customers (37.5%)
+Medium Value Customers ($500-1000): 0 customers (0.0%)
+Low Value Customers (<$500):      3 customers (37.5%)
+
+================================================================================
+PRODUCT ANALYSIS
+================================================================================
+
+
+Laptop:
+  - Units Sold: 3
+  - Total Revenue: $3,600.00
+  - Average Price: $1200.00
+  - Price Range: $1200.00 - $1200.00
+
+Mouse:
+  - Units Sold: 1
+  - Total Revenue: $25.00
+  - Average Price: $25.00
+  - Price Range: $25.00 - $25.00
+
+Keyboard:
+  - Units Sold: 2
+  - Total Revenue: $150.00
+  - Average Price: $75.00
+  - Price Range: $75.00 - $75.00
+
+Monitor:
+  - Units Sold: 2
+  - Total Revenue: $600.00
+  - Average Price: $300.00
+  - Price Range: $300.00 - $300.00
+
+USB Cable:
+  - Units Sold: 1
+  - Total Revenue: $10.00
+  - Average Price: $10.00
+  - Price Range: $10.00 - $10.00
+
+Headphones:
+  - Units Sold: 1
+  - Total Revenue: $80.00
+  - Average Price: $80.00
+  - Price Range: $80.00 - $80.00
+
+
+================================================================================
+GEOGRAPHIC ANALYSIS
+================================================================================
+
+
+New York:
+  - Customers: 3
+  - Orders: 6
+  - Total Revenue: $3,150.00
+  - Average Order Value: $525.00
+
+Los Angeles:
+  - Customers: 2
+  - Orders: 3
+  - Total Revenue: $115.00
+  - Average Order Value: $38.33
+
+Chicago:
+  - Customers: 1
+  - Orders: 1
+  - Total Revenue: $1,200.00
+  - Average Order Value: $1200.00
+
+
+================================================================================
+KEY INSIGHTS & RECOMMENDATIONS
+================================================================================
+
+1. REVENUE CONCENTRATION:
+   The top 3 products account for 97.4% of total revenue.
+   Focus on maintaining stock and quality of high-performing products.
+
+2. CUSTOMER VALUE:
+   3 customer(s) (37.5%) are high-value spending more than $1,000.
+   Implement loyalty programs to retain these key customers.
+
+3. GEOGRAPHIC PERFORMANCE:
+   New York is the strongest market with 3,150.00 in revenue.
+   Consider expansion strategies for lower-performing cities.
+
+4. SALES PATTERN:
+   Average transaction value is $446.50.
+   Standard deviation of $529.65 indicates variable purchase amounts.
+
+5. PRODUCT DIVERSITY:
+   With 6 products, the portfolio is well-diversified.
+   Monitor underperforming products for potential discontinuation.
+
+================================================================================
+DETAILED CUSTOMER ANALYSIS
+================================================================================
+
+
+Alice:
+  - Total Purchases: 3
+  - Total Spent: $1,575.00
+  - Average Purchase: $525.00
+  - Highest Purchase: $1200.00
+  - Last Purchase: 2024-02-15
+
+Bob:
+  - Total Purchases: 2
+  - Total Spent: $35.00
+  - Average Purchase: $17.50
+  - Highest Purchase: $25.00
+  - Last Purchase: 2024-02-05
+
+Charlie:
+  - Total Purchases: 2
+  - Total Spent: $375.00
+  - Average Purchase: $187.50
+  - Highest Purchase: $300.00
+  - Last Purchase: 2024-02-20
+
+Diana:
+  - Total Purchases: 1
+  - Total Spent: $1,200.00
+  - Average Purchase: $1200.00
+  - Highest Purchase: $1200.00
+  - Last Purchase: 2024-01-20
+
+Eve:
+  - Total Purchases: 1
+  - Total Spent: $80.00
+  - Average Purchase: $80.00
+  - Highest Purchase: $80.00
+  - Last Purchase: 2024-02-10
+
+Frank:
+  - Total Purchases: 1
+  - Total Spent: $1,200.00
+  - Average Purchase: $1200.00
+  - Highest Purchase: $1200.00
+  - Last Purchase: 2024-03-01
+
+
+================================================================================
+END OF REPORT
+================================================================================
+This report was automatically generated and contains insights from 10 transactions.
+For questions or clarifications, please refer to the detailed analysis files.
